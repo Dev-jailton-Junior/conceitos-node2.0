@@ -34,15 +34,8 @@ app.listen(3000, () => {
 });
 //http://localhost:3000/usuarios
 
-//req: requisição
-//res: resposta
+
 //req => requisição res => resposta
 //node --watch server.js => rodar o sistema toda vez que salvar
 // npx prisma studio pra rodar o prisma
 
-/*
-email mongodb
-juniojr555   junio
-kABHxYJAG0Eg1PBz  junio5550123
-  
-*/
